@@ -42,11 +42,9 @@ Making it clear and unambigious what code was actually deployed, what changes we
 
 ## Documentation
 
-### Overview
+### README
 
-Explains the app from a high level, what it's main features are, and what it's intended use cases are.
-
-Also shows crucial data points like the security audit status of the app, what networks it's deployed to, and the bug bounty policy.
+A developer focused synopsis of everything needed to quickly start hacking on Redemptions.
 
 ### User Guide
 
@@ -63,10 +61,6 @@ Visual representation of every component of the app. This includes internal proc
 ### Technical Documentation
 
 Explains each function in the app, what it does, and any unusual things to look out for. This will be a stand alone document as well as detailed code comments explaining every function. This will also include a wireframe that allows developers (or auditors) to visually see how the app is intended to function.
-
-### README
-
-A developer focused synopsis of everything needed to quickly start hacking on Redemptions.
 
 <br />
 
