@@ -10,6 +10,7 @@ Follow the frameworks outlined by top security professionals to document and com
 - [Trail Of Bits pre security audit guidelines](https://blog.trailofbits.com/2018/04/06/how-to-prepare-for-a-security-audit/) ✔️ added to audit prep checklist 
 - [OpenZeppelin pre security audit checklist](https://blog.zeppelin.solutions/follow-this-quality-checklist-before-an-audit-8cc6a0e44845?gi=ea2b8162e8c8) ✔️ added to audit prep checklist
 - [Consensys Dilligence pre security audit guidelines](https://media.consensys.net/preparing-for-a-smart-contract-code-audit-83691200cb9c) ✔️ added to audit prep checklist
+- [Audit the deployed contract, not just the GitHub repo!](https://media.consensys.net/audit-the-deployed-smart-contract-not-github-16082b2fcb1b) - ✔️ Incorporated as a to do item in our release process
 
 Use Ethereum security tools on the Redemptions app to check for common blunders. If we find problems we should also figure out how to fix them.
 - [ETHSecurity Recommended Tools](https://www.ethsecurity.org/research-and-developer-resources/tools)
