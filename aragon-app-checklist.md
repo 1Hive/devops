@@ -36,8 +36,7 @@ In addition, we can determine a set of Ethereum security apps to run (like Slith
 
 ### Release
 
-Documenting our release process.
-- [0xgabi](https://github.com/1Hive/devops/issues/1) is working on that
+Making it clear and unambigious what code was actually deployed, what changes were made since the last release and why, and how people can verify that against our documentation and security reviews.
 
 <br />
 
