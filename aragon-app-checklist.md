@@ -25,14 +25,13 @@ A checklist to prepare our apps to be audited and/or released.
 
 ### Linting
 
-The apps/formatting we are using goes here.
+The style guide and apps/formatting we use to enforce that style goes here.
 
 ### Testing
 
-A description of the testing framework we're using goes here.
+This should include a document describing the kinds of tests that we are running, what we expect them to catch, and also what we are not testing for that needs further review. 
 
-In addition, we can determine a set of Ethereum security apps to run (like Slither and Echinda) to catch errors as we go
-- looking into using Trail of Bits [Crytic](https://blog.trailofbits.com/2019/08/02/crytic-continuous-assurance-for-smart-contracts/) (like CircleCI, but for Ethereum contract security)
+We will also be running [CryticCI](https://crytic.io/) with every build. Currently this includes Slither and our unit tests. In the future it will include [Echinda](https://github.com/crytic/echidna), [Manticore](https://github.com/trailofbits/manticore), and more. 
 
 ### Release
 
@@ -60,7 +59,7 @@ Visual representation of every component of the app. This includes internal proc
 
 ### Technical Documentation
 
-Explains each function in the app, what it does, and any unusual things to look out for. This will be a stand alone document as well as detailed code comments explaining every function. This will also include a wireframe that allows developers (or auditors) to visually see how the app is intended to function.
+Explains each function in the app, what it does, and any unusual things to look out for. This will be a stand alone document as well as detailed code comments explaining every function. This will also include a diagram that allows developers (or auditors) to visually see how the app is intended to function.
 
 <br />
 
