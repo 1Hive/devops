@@ -13,7 +13,8 @@ A checklist to prepare our apps to be audited and/or released.
 - overview
 - user guide
 - integration guide
-- technical specification
+- technical documentation
+- testing documentation
 
 ### Demo
 - script to deploy a DAO template with Redemptions locally for hacking
@@ -60,6 +61,10 @@ Visual representation of every component of the app. This includes internal proc
 ### Technical Documentation
 
 Explains each function in the app, what it does, and any unusual things to look out for. This will be a stand alone document as well as detailed code comments explaining every function. This will also include a diagram that allows developers (or auditors) to visually see how the app is intended to function.
+
+### Testing Documentation
+
+This will describe the tests that we are running, what we expect them to catch, and also what we are not testing for that needs further review. This will allow anyone to easily understand the security of our applications at any point, and will also allow developers or auditors to easily re-run these tests to verify the results themselves. This will also link to our release proecess which will include instructions on how to verify that the deployed contract matches the source code that all these tests are being run against.  
 
 <br />
 
