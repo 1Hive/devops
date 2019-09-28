@@ -181,9 +181,15 @@ Find someone willing to review it for cheap
 
 ## Potential Security Partners
 
-- Trail of Bits [Crytic](https://crytic.io/) - 📧 reached out via email
-- the team doing Autark's security audit - TBD
-- [the teams the did security audits for A1](https://wiki.aragon.org/dev/security/) - White Hat Group, Consensys Diligence, and Authio (waiting for feedback/intros from A1 first) (📧 actually emailed Autio because they had a simple contact form)
-- [the teams that did security audits for MolochDAO](https://medium.com/nomic-labs-blog/moloch-dao-audit-report-f31505e85c70) - [Nomic Labs](https://nomiclabs.io/) - 📧 reached out via email
+- Trail of Bits [Crytic](https://crytic.io/): test driving CryticCI, but their actual audits are expensive
+- Mixbytes (the team doing Autark's security audits): they can't give us an audit until our contracts are frozen
+- [the teams the did security audits for A1](https://wiki.aragon.org/dev/security/) 
+    - White Hat Group: I don't think these guys are available for hire anymore
+    - Consensys Diligence: waiting for a response on MythX and their audit process
+    - Authio: contacted via the form on their website and no response
+- [the teams that did security audits for MolochDAO](https://medium.com/nomic-labs-blog/moloch-dao-audit-report-f31505e85c70) 
+    - [Nomic Labs](https://nomiclabs.io/): they're fully booked atm
 
 [Aragon Association Security Review Pipeline](https://github.com/aragon/security-review)
+- submitted a request for support: tldr is that if we need more funds they might help
+    - https://github.com/aragon/security-review/issues/12 
