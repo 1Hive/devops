@@ -83,7 +83,7 @@ The ABC app is initialized with the following parameters
 
 <br />
 
-## Function 1
+## Function
 
 Info on the function, it's inputs, any state changes or outputs, and anything else to be aware of.
 ```
@@ -93,7 +93,17 @@ Info on the function, it's inputs, any state changes or outputs, and anything el
 
 <br />
 
-## Another Important Function
+## Function
+
+Info on the function, it's inputs, any state changes or outputs, and anything else to be aware of.
+```
+// the function should be copypastad into this section
+// code comments should be added explaining the purpose of each line
+```
+
+<br />
+
+## Function
 
 Info on the function, it's inputs, any state changes or outputs, and anything else to be aware of.
 ```
