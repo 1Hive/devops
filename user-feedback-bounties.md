@@ -43,6 +43,10 @@ Please state the app you are reveiewing.
 
 <br />
 
+## Questions
+
+Please answer the following questions to provide feedback.
+
 ### Documentation
 
 - Was the documentation easy to follow?
@@ -80,8 +84,8 @@ Please provide a name and Ethereum address that we can add to our DAO to pay out
 
 <br />
 
-### Thank you! :)
+## Thank you!
 
-We really appreciate you taking the time to try out our apps. The goal is to make apps that allow the open source commons to thrive. As such, it's essential that our apps are simple, intuitive, and secure. By providing detailed and actionable feedback you're eliminating people's future headaches and improving the user experience for everyone!
+We really appreciate you taking the time to try out our apps. The goal is to make apps that allow the open source commons to thrive. As such, it's essential that our apps are simple, intuitive, and secure. By providing detailed and actionable feedback you're eliminating people's future headaches and improving the user experience for everyone :)
 
 <br />
