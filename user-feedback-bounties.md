@@ -1,5 +1,3 @@
-<br />
-
 ## 1Hive User Feedback Bounties
 
 Hi! We're looking for people who want to explore, build, and use our apps - and then tell us about it. We want to know what your experience was like so that we can make our apps the best they can be. We expect that the process of reading through our documentation, trying out the app, and then answering questions to provide feedback will take about an hour. 
