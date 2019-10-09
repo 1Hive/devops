@@ -27,7 +27,17 @@ Our bounties are as follows:
 
 <br />
 
-## App
+## Scope
+
+To better understand what we are building, please review this [introductory blog post](https://1hive.org/blog/2019/08/31/dandelion-overview).
+
+The following Dandelion apps are eligible for review:
+- [Redemptions](https://github.com/1Hive/redemptions-app/)
+- [Token Request](https://github.com/1Hive/token-request-app)
+- [Time Lock](https://github.com/1Hive/time-lock-app)
+- [Delay](https://github.com/1Hive/delay-app)
+- [Dissent Voting](https://github.com/1Hive/dissent-voting-app)
+- [Dandelion Org Template](https://github.com/1Hive/dandelion-org)
 
 Please state the app you are reveiewing.
 
