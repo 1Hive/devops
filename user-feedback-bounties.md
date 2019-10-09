@@ -45,10 +45,14 @@ Please state the app you are reveiewing.
 
 ### App
 
-- Was the user guide (if any) helpful to use the app? - if not, what was unclearn and/or missing?
-- Did you get it to work? - if not, what broke or what did you get stuck on?
-- Was the UI intuitive? - if not, what parts were confusing?
-- Did you like the design? - if not, what would you change?
+- Was the user guide (if any) helpful to use the app? 
+	- if not, what was unclearn and/or missing?
+- Did you get it to work? 
+	- if not, what broke or what did you get stuck on?
+- Was the UI intuitive? 
+	- if not, what parts were confusing?
+- Did you like the design? 
+	- if not, what would you change?
 - Are there any functionalities you think would make sense to add?
 - What do you think could be improved?
 
