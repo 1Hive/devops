@@ -40,6 +40,8 @@ Please state the app you are reveiewing.
 <br />
 
 ### App
+- Was the user guide (if any) helpful to use the app?
+	- if not, what was unclearn and/or missing?
 - Did you get it to work?
 	- if not, what broke or what did you get stuck on?
 - Was the UI intuitive?
